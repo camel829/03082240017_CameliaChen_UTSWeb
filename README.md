@@ -1,9 +1,9 @@
 EVENTHUB - Sistem Pendaftaran Workshop Informatika
 Identitas
 
-Nama: NAMA LENGKAP
+Nama: Camelia Chen
 
-NIM: NIM
+NIM: 03082240017
 
 Mata Kuliah: Pemrograman Web
 
@@ -168,7 +168,7 @@ Ringkasan pendaftaran akan ditampilkan secara otomatis.
 
 Git
 
-Repository menggunakan Git dengan minimal tiga commit:
+Repository menggunakan Git dengan minimal tiga commit, yaitu:
 
 git commit -m "Initial project"
 git commit -m "Add HTML and CSS structure"
